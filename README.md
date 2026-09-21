@@ -23,6 +23,6 @@ This is a reusable Docker Compose setup for running multiple Laravel apps using 
 ## 🏁 Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/laravel-docker-dev.git
+git clone https://github.com/dallanj/laravel-docker-dev.git
 cd laravel-docker-dev
 ./create-laravel-project.sh example
